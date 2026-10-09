@@ -14,6 +14,7 @@ Shell - Lets the user interact with the Kernel - bash/sh/zsh
 Application - a UI to access Shell - terminal
 
 The OS manages the processes by allocating a unique Indentifier called PID(Process ID) to every task
+Process is created 
 
 
 
